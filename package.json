@@ -1,0 +1,21 @@
+{
+  "name": "class3",
+  "version": "1.0.0",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app1": "nodemon app1.js",
+    "app2": "nodemon app2.js",
+    "app3": "nodemon app3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "pug": "^3.0.3"
+  }
+}
